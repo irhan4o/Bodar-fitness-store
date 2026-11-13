@@ -1,1 +1,13 @@
-"Бодър" е онлайн магазин за фитнес домашни уреди, аксесоари и уреди за приготвяне на протеинови храни. Целта му е да предостави удобна платформа за поддържане на добра физическа форма и здравословен режим в домашни условия. Сайтът предлага всичко необходимо за домашни тренировки и здравословно хранене, улеснявайки активния начин на живот.
+# Бодър (Bodar) 🏋️‍♂️
+
+A clean, responsive website for fitness equipment and home workout gear.
+
+## Features
+* Product catalog with fitness equipment and accessories
+* Responsive design for desktop and mobile
+* Simple and clear navigation
+
+## Built With
+* HTML5
+* CSS3
+* JavaScript
